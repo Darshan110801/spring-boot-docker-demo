@@ -1,0 +1,6 @@
+com/microservices/demo/activity1/services/CourseService.class
+com/microservices/demo/activity1/controllers/CourseController.class
+com/microservices/demo/activity1/dao/CourseDao.class
+com/microservices/demo/activity1/servicesImpl/CourseServiceImpl.class
+com/microservices/demo/activity1/entities/Course.class
+com/microservices/demo/activity1/Activity1Application.class
